@@ -17,5 +17,7 @@ Tải xuống môi trường Net 8 [tại đây](https://github.com/matiassinger
 
 ## Hình ảnh
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/main_pic.jpg)
+![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/explore.jpg)
+![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/noderank.jpg)
 
