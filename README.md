@@ -15,6 +15,8 @@ Công cụ này được viết trên nền Microsoft .Net vì thế trước kh
 Tải xuống môi trường .Net 8.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.17/windowsdesktop-runtime-8.0.17-win-x64.exe) 
 Hoặc nếu chưa được cài đặt sẽ tự động cài ngay trong lần chạy đầu tiên trên máy tính.
 
+Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới tính hoặc cài lại Windows sẽ có thông báo "Windows protected your PC" lúc này các bạn chọn "More info" bước tiếp theo bấm nút "Run anyway"
+
 ## Hình ảnh
 
 ![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/main_pic.jpg)
