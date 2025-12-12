@@ -1,6 +1,10 @@
 
 # Pi Network Explorer Tool
 
+Công cụ này được viết trên nền Microsoft .Net vì thế trước khi chạy cần đảm bảo cài đặt trước môi trường .Net [Đảm bảo cài đủ 2 môi trường dưới đây]:
+- Tải xuống môi trường Net9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe)
+- Tải xuống môi trường Visual C++ [Tại đây](https://aka.ms/vc14/vc_redist.x64.exe)
+
 Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
 
 - Khôi phục cụm mật khẩu ví.
@@ -13,10 +17,6 @@ Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
 - Xem giao dịch trên mạng.
 - Xem danh sách các node đã từng kết nối.
 
-Công cụ này được viết trên nền Microsoft .Net vì thế trước khi chạy cần đảm bảo cài đặt trước môi trường .Net [Đảm bảo cài đủ 2 môi trường dưới đây]:
-- Tải xuống môi trường Net9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe)
-- Tải xuống môi trường Visual C++ [Tại đây](https://aka.ms/vc14/vc_redist.x64.exe)
-  
 Liên kết dự phòng:
 - https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe
 - https://aka.ms/vc14/vc_redist.x64.exe
