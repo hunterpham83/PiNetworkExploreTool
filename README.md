@@ -1,5 +1,5 @@
 
-# Pi Network Explore Tool
+# Pi Network Explorer Tool
 
 Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
 
