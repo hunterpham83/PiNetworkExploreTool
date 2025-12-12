@@ -12,7 +12,7 @@ Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
 - Xem danh sách các node đã từng kết nối.
 
 Công cụ này được viết trên nền Microsoft .Net vì thế trước khi chạy cần đảm bảo cài đặt trước .Net
-Tải xuống môi trường .Net 8.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.17/windowsdesktop-runtime-8.0.17-win-x64.exe) 
+Tải xuống môi trường Net 9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe) 
 Hoặc nếu chưa được cài đặt sẽ tự động cài ngay trong lần chạy đầu tiên trên máy tính.
 
 Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới tính hoặc cài lại Windows sẽ có thông báo "Windows protected your PC" lúc này các bạn chọn "More info" bước tiếp theo bấm nút "Run anyway"
