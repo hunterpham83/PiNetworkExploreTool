@@ -3,6 +3,8 @@
 
 Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
 
+- Khôi phục cụm mật khẩu ví.
+- Tự động chuyển PI khi hết hạn khóa [Ủy quyền cho ví khác trả phí]
 - Hỗ trợ vận hành node tự động.
 - Tìm kiếm và hiển thị danh sách bảng xếp hạng node.
 - Thống kê node đang kết nối đến và đi, liệt kê theo từng quốc gia
