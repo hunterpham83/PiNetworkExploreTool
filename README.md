@@ -14,6 +14,7 @@ Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
 Công cụ này được viết trên nền Microsoft .Net vì thế trước khi chạy cần đảm bảo cài đặt trước .Net
 Tải xuống môi trường Net 9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe) 
 Hoặc nếu chưa được cài đặt sẽ tự động cài ngay trong lần chạy đầu tiên trên máy tính.
+https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe
 
 Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới tính hoặc cài lại Windows sẽ có thông báo "Windows protected your PC" lúc này các bạn chọn "More info" bước tiếp theo bấm nút "Run anyway"
 
