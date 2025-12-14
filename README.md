@@ -5,9 +5,12 @@ Công cụ này được viết trên nền Microsoft .Net vì thế trước kh
 - Tải xuống môi trường Net9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe)
 - Tải xuống môi trường Visual C++ [Tại đây](https://aka.ms/vc14/vc_redist.x64.exe)
 
-Liên kết dự phòng:
-- https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe
-- https://aka.ms/vc14/vc_redist.x64.exe
+## Ghi chú phát hành Pi Network Explorer Tool
+
+## 5.8.28
+
+- Tăng tốc độ phản hồi
+- Tích hợp thông báo tới Telegram mỗi khi Node có vấn đề cần cảnh báo
 
 Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới tính hoặc cài lại Windows sẽ có thông báo "Windows protected your PC" lúc này các bạn chọn "More info" bước tiếp theo bấm nút "Run anyway"
 
