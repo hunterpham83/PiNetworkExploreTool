@@ -5,18 +5,6 @@ Công cụ này được viết trên nền Microsoft .Net vì thế trước kh
 - Tải xuống môi trường Net9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe)
 - Tải xuống môi trường Visual C++ [Tại đây](https://aka.ms/vc14/vc_redist.x64.exe)
 
-Công cụ hỗ trợ giám sát vận hành Pi Node [Pi Desktop]
-
-- Khôi phục cụm mật khẩu ví.
-- Tự động chuyển PI khi hết hạn khóa [Ủy quyền cho ví khác trả phí]
-- Hỗ trợ vận hành node tự động.
-- Tìm kiếm và hiển thị danh sách bảng xếp hạng node.
-- Thống kê node đang kết nối đến và đi, liệt kê theo từng quốc gia
-- Kiểm tra cổng [Port] có đang mở hay không.
-- Hỗ trợ cài và cấu hình Pi Node tự động.
-- Xem giao dịch trên mạng.
-- Xem danh sách các node đã từng kết nối.
-
 Liên kết dự phòng:
 - https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe
 - https://aka.ms/vc14/vc_redist.x64.exe
