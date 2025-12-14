@@ -11,12 +11,14 @@ Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới t�
 
 ### 5.12.12
 
+Phiên bản này có gì mới:
 - Tăng tốc độ phản hồi từ hệ thống
 - Thêm tính năng "Khôi phục mật khẩu ví" có giới hạn
 - Thêm tính năng "Chuyển khoản PI" tự động thực hiện hoặc thủ công khi có dấu hiệu lộ cụm mật khẩu ví
 
 ### 5.8.28
 
+Phiên bản này có gì mới:
 - Tăng tốc độ phản hồi
 - Tích hợp thông báo tới Telegram mỗi khi Node có vấn đề cần cảnh báo
 
