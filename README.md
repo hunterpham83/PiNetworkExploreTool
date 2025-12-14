@@ -5,7 +5,7 @@ Công cụ này được viết trên nền Microsoft .Net vì thế trước kh
 - Tải xuống môi trường Net9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe)
 - Tải xuống môi trường Visual C++ [Tại đây](https://aka.ms/vc14/vc_redist.x64.exe)
 
-### Ghi chú phát hành Pi Network Explorer Tool
+## Ghi chú phát hành Pi Network Explorer Tool
 
 ### 5.8.28
 
