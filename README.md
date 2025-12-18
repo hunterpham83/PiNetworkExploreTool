@@ -9,17 +9,23 @@ Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới t�
 
 ## Ghi chú phát hành Pi Network Explorer Tool
 
+### 5.12.18
+
+Có gì mới ở phiên bản này:
+- Cải thiện hiệu suất hệ thống
+- Chỉnh sửa thông báo sự cố quá ứng dụng nhắn tin Telegram
+
 ### 5.12.12
 
-Phiên bản này có gì mới:
-- Tăng tốc độ phản hồi từ hệ thống
+Có gì mới ở phiên bản này:
+- Cải thiện hiệu suất hệ thống
 - Thêm tính năng "Khôi phục mật khẩu ví" có giới hạn
 - Thêm tính năng "Chuyển khoản PI" tự động thực hiện hoặc thủ công khi có dấu hiệu lộ cụm mật khẩu ví
 
 ### 5.8.28
 
-Phiên bản này có gì mới:
-- Tăng tốc độ phản hồi
+Có gì mới ở phiên bản này:
+- Cải thiện hiệu suất hệ thống
 - Tích hợp thông báo tới Telegram mỗi khi Node có vấn đề cần cảnh báo
 
 ## Hình ảnh
